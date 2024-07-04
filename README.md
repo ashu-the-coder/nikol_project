@@ -1,7 +1,7 @@
                                                                                      * NIKOL PROJECT*
                                                                                  (Digital Sinage System)
 
-
+                                                  Note : adjust the file path according to your system file path
                                                   STEPS:
                                                      1 . Create a virtual envirment for the project 
                                                      2 . install and import tkinker module using pip install tkinker
@@ -16,6 +16,7 @@
 
 
                                                       Requirment of the file 
+                                                      Note: images,gif and video are not according to the requirment. 
                                                     For 1. Photo:
                                                                  i.photo must be of size 800x600 or can custom according to use
                                                                  2.it must be cleane 
