@@ -13,11 +13,11 @@ class DigitalSignage:
         self.label.pack(expand=True, fill='both')
 
         self.image_paths = [
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\image_1 .jpg",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\image_2.JPG",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\image_3.jpg",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\image_4.JPG",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\image_5.JPG"
+            r"photo\image_1 .jpg",
+            r"photo\image_2.JPG",
+            r"photo\image_3.jpg",
+            r"photo\image_4.JPG",
+            r"photo\image_5.JPG"
         ]
 
         # Check if files exist
