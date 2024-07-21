@@ -13,12 +13,13 @@ class DigitalSignage:
         self.label.pack(expand=True, fill='both')
 
         self.gif_paths = [
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\animation1.gif",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\animation2.gif",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\animation3.gif",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\animation4.gif",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\animation5.gif"
-        ]
+            r"photo\animation1.gif",
+            r"photo\animation2.gif",
+            r"photo\animation3.gif",
+            r"photo\animation4.gif",
+            r"photo\animation5.gif"
+]
+
 
         # Check if files exist
         for path in self.gif_paths:
