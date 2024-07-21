@@ -14,12 +14,13 @@ class DigitalSignage:
         self.label.pack(expand=True, fill='both')
 
         self.video_paths = [
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\video1.mp4",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\video2.mp4",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\video3.mp4",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\video4.mp4",
-            r"C:\\Users\\Lenovo\\OneDrive\\Desktop\\Nikol_project\\mine\\photo\\video5.mp4"
-        ]
+            r"photo\video1.mp4",
+            r"photo\video2.mp4",
+            r"photo\video3.mp4",
+            r"photo\video4.mp4",
+            r"photo\video5.mp4"
+            ]
+
 
         # Check if files exist
         for path in self.video_paths:
